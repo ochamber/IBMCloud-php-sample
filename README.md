@@ -1,1 +1,1 @@
-# IBMCLOUD-php-simpletest
+# IBMCLOUD-php-simple-test
