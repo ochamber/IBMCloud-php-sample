@@ -1,1 +1,1 @@
-# bluemix-php-text
+# IBMCLOUD-php-simpletest
