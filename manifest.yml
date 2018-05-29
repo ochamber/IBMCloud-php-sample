@@ -6,6 +6,4 @@ applications:
   name: php-fj3817ia
   host: php-fj3817ia
   disk_quota: 1024M
-  services:
-  - PostgreSQL by Compose-7s
   buildpack: php_buildpack
