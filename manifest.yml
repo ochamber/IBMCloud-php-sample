@@ -3,7 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: php-fj3817ia
-  host: php-fj3817ia
+  name: php-sample-with-API
   disk_quota: 1024M
   buildpack: php_buildpack
